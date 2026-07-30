@@ -153,7 +153,7 @@ MainActivity    Error Message
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/24012021094_MAD_Prac3.git
+git clone https://github.com/Anubhav-0308/24012021094_MAD_Prac3.git
 ```
 
 ### 2. Open the project
