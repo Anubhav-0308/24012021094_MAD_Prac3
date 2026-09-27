@@ -1,5 +1,9 @@
 # 🔐 Android Login Application
 
+<img width="365" height="652" alt="Screenshot 2026-07-30 184754" src="https://github.com/user-attachments/assets/2d899a55-3bc0-4038-a70e-eafbe5c6e176" />
+<img width="406" height="727" alt="Screenshot 2026-07-30 184810" src="https://github.com/user-attachments/assets/5b7d1992-522d-45d5-a3a5-0cff328f5ead" />
+
+
 A simple Android Login Application developed using **Kotlin** in **Android Studio**. This project demonstrates the basics of user authentication, activity navigation, Intent communication, and XML-based user interface design.
 
 ---
@@ -167,14 +171,6 @@ Allow Gradle to download all dependencies.
 ### 4. Run the application
 
 Run the app on an Android Emulator or a physical Android device.
-
----
-
-## 📸 Screenshots
-
-
-<img width="365" height="652" alt="Screenshot 2026-07-30 184754" src="https://github.com/user-attachments/assets/2d899a55-3bc0-4038-a70e-eafbe5c6e176" />
-<img width="406" height="727" alt="Screenshot 2026-07-30 184810" src="https://github.com/user-attachments/assets/5b7d1992-522d-45d5-a3a5-0cff328f5ead" />
 
 
 ## 📚 Learning Outcomes
