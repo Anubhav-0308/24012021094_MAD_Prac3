@@ -1,6 +1,6 @@
 # 🔐 Android Login Application
 
-<img width="365" height="652" alt="Screenshot 2026-07-30 184754" src="https://github.com/user-attachments/assets/2d899a55-3bc0-4038-a70e-eafbe5c6e176" />
+<img width="406" height="727" alt="Screenshot 2026-07-30 184754" src="https://github.com/user-attachments/assets/2d899a55-3bc0-4038-a70e-eafbe5c6e176" />
 <img width="406" height="727" alt="Screenshot 2026-07-30 184810" src="https://github.com/user-attachments/assets/5b7d1992-522d-45d5-a3a5-0cff328f5ead" />
 
 
